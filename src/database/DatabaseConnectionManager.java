@@ -12,8 +12,6 @@ import java.sql.SQLException;
  * constructor. That means, clients cannot create instances 
  * of this class. But notice it has a method called 
  * getManagerInstance() which returns an instance of this class. 
- * 
- * @author Imtiaz
  *
  */
 
